@@ -11,7 +11,7 @@ import pe.edu.upeu.SeleccionFutbol;
 
 /**
  *
- * @author Alumnos
+ * @author AngelDX
  */
 public class Principal {
     BufferedReader teclado=new BufferedReader(new InputStreamReader(System.in));
