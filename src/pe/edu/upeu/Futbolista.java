@@ -8,7 +8,7 @@ package pe.edu.upeu;
 
 /**
  *
- * @author Alumnos
+ * @author AngelDX
  */
 public class Futbolista extends SeleccionFutbol{
    int dorsal;
